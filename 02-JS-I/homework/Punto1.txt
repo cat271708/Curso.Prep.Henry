@@ -1,0 +1,23 @@
+Primero que todo JavaScript es un lenguaje de programación o una secuencia de comandos, me explico, es algo que compone un sitio web, como
+facebook, google, wikipedia entre otrs más; pero más que todo este lenguaje es más interactivo, además de que sigue una serie de instrucciones,
+ a continuación te explicaré algunos de los componentes de JavaScript.
+
+-Variables.
+Una variable es un elemento que se emplea para almacenar y hacer referencia a otro valor como por ejemplo separar por nombres (mamiferos:perro,
+conejo, gato; aves: aguila, paloma, tórtola) Gracias a las variables es posible crear "programas genéricos", es decir, programas que funcionan 
+siempre igual independientemente de los valores concretos utilizados como los ejemplos pasados que te dije.
+
+- Strings
+Un string en JavaScript se utiliza para representar datos textuales o sea líneas de texto, las palabras en sí; por ejemplo la palabra iglesia
+tiene 7 letras, pero en este lenguaje ni las lee desde el número 1, sino desde el 0, o sea la primera letra es el número 0, la segunda el 1, y
+así sucesivamente.
+	
+- Funciones (argumentos, `return`)
+Una función es una serie de pasos, de instrucciones o procedimientos para realizar una tarea especifica siguiendo un orden o para calcular 
+cierto valor.
+
+- Declaraciones `if`
+Las declaraciones "if" son utilizadas para tomar decisiones. Como un condicional, por ejemplo si hamburguesa = comida o perro = animal. 
+
+- Valores booleanos (`true`, `false`)
+Los valores booleanos sirven para definir si algo es verdadero o falso, por ejemplo: 2*2=4 == true (verdadero); o 5*2=7 == false(falso).
